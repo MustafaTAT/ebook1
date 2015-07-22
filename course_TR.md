@@ -1,6 +1,6 @@
-# DAY 1 - Accessing your server
+# 1. GÜN - Sunucunuza erişim
 
-## INTRO
+## GİRİŞ
 
 You should now have received an email with the address of your brand-new server. This is yours to use during the course - and not shared with anyone else.  You alone will be administering it.
 
