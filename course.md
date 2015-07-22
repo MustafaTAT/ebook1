@@ -2,21 +2,21 @@
 
 ## GİRİŞ
 
-You should now have received an email with the address of your brand-new server. This is yours to use during the course - and not shared with anyone else.  You alone will be administering it.
+Şu an yepyeni sunucunuzun adresini de içeren bir eposta almış olmalısınız. Bu sunucu eğitim boyunca sizindir ve başkası ile paylaşılmamıştır. Bu sunucuyu yöneteceksiniz, tek başınıza.
 
-Your server will be running the latest Ubuntu Server LTS (Long Term Support) version. 
+Sunucunuz Ubuntu Server LTS (Long Term Support)(Uzun Dönem Destek) son sürümünü çalıştırıyor olacak. 
 
 To become a fully-rounded Linux server admin you should become comfortable working with different versions of Linux, but for now Ubuntu is a good choice.
 
 Once you have reached a level of comfort at the command-line then you'll find your skills transfer not only to all the standard Linux variants, but also to Android, Apple's OSX, OpenBSD, Solaris and IBM AIX. Throughout the course you'll be working on Linux - but in fact most of what is covered is applicable to any system in the "UNIX family" - and the major differences between them are with their graphic user interfaces such as Gnome, Unity, KDE etc - none of which you’ll be using!
 
-## YOUR TASKS TODAY:
+## BUGÜNKÜ GÖREVLERİNİZ:
 
 * Connect and login remotely your server 
 * Run a few simple simple commands to check the status of your servers
 * Change your password
 
-## INSTRUCTIONS
+## YÖNERGELER
 
 Remote access used to be done by the simple *telnet* protocol, but now the much more secure SSH (“Secure SHell) protocol is always used.
 
